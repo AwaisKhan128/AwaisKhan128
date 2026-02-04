@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AwaisKhan128
-- 👀 I’m interested in Android and Firebase Development
+- 👀 I’m interested in Android, Flutter, FlutterFlow and React Native
 - 🌱 I’m currently learning Python, PHP, JavaScript, HTML, SQL, Blockchain
 - 💞️ I’m looking to collaborate on Custom Client Applications
 - 📫 How to reach me => awais.khan128@yahoo.com
